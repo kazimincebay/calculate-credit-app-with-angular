@@ -12,7 +12,7 @@ Kullanıcıdan kredi tutarı ve taksit tutarı bilgilerini alır, ardından topl
 - Toplam taksit sayısını hesaplama
 - Taksit tutarı ve kalan ödenecek tutar hesaplama
 - Sonuçları tabloda gösterme
-- Kullanıcı dostu ve responsive arayüz (Bootstrap veya Angular Material tercih edilebilir)
+- Kullanıcı dostu ve responsive arayüz
 
 ---
 
@@ -21,14 +21,14 @@ Teknolojiler
 - Angular
 - TypeScript
 - HTML / CSS
-- Bootstrap (opsiyonel, eğer kullandıysan)
+- Bootstrap
 
 ---
 
 Kurulum ve Çalıştırma
 
 1. Depoyu klonlayın:
-   git clone <repository-url>
+   git clone (https://github.com/kazimincebay/calculate-credit-app-with-angular)
 2. Proje klasörüne gidin:
    cd kredi-hesaplama-uygulamasi
 3. Gerekli paketleri yükleyin:
